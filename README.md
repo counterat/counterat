@@ -9,13 +9,19 @@ Built 50+ projects — from Web3 & DeFi to large-scale iGaming ecosystems
 
 </div>
 
+--# Hi, I'm Yurii 👋  
+**Senior Backend Engineer & Head of Telegram Department (ex)**  
+Built 50+ projects — from Web3 & DeFi to large-scale iGaming ecosystems
+
+</div>
+
 ---
 
 ## 🚀 About Me
 
 I specialize in building **scalable backend systems**, designing **high-load architectures**, and delivering **reliable integrations** for products with millions of users.
 
-- ⚙️ Designed and maintained microservices with FastAPI, Docker, PostgreSQL, Redis, Kafka
+- ⚙️ Designed and maintained microservices with FastAPI, Django, Flask, Docker, PostgreSQL, Redis, Kafka
 - ☁️ Deployed on AWS using Kubernetes + GitHub Actions CI/CD
 - 💳 Built a custom payments library that saved companies **$5,000+/month**
 - 📈 Brought **20,000+ paying US customers** into Telegram through growth initiatives
@@ -32,17 +38,40 @@ I specialize in building **scalable backend systems**, designing **high-load arc
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" title="FastAPI"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" title="Django"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" title="Flask"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" title="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" title="TypeScript"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" title="PostgreSQL"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" title="Redis"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="50" title="Kafka"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" title="Docker"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" title="Kubernetes"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50" title="Nginx"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" title="AWS"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" title="GitHub Actions"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/websocket/websocket-original.svg" width="50" title="WebSockets"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="50" title="GraphQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" title="MongoDB"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="50" title="Elasticsearch"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" title="Linux"/>
 
 </div>
+
+**Also experienced with:**  
+Celery, asyncio, REST API, SQLAlchemy, Pydantic, Terraform, WebSockets, Machine Learning, LLM/OpenAI, GCP, DevOps, Bash/Shell scripting
+
+---
+
+## 🧠 Domain Experience
+
+- 🎮 **Gamedev** — 4 years
+- 💰 **Blockchain / Crypto** — 4 years
+- 🔞 **Adult** — 4 years
+- 🎲 **Gambling** — 4.5 years
+- 📊 **Machine Learning / Big Data** — 4 years
+- 💌 **Dating** — 2 years
+- 🛍️ **E-commerce / Marketplace** — 2 years
+- 🚗 **Automotive** — 4 years
 
 ---
 
@@ -56,7 +85,6 @@ I’m aiming to grow into a **Tech Lead / Solution Architect** role to:
 - 💡 Bridge backend reliability with user-centric product development
 
 ---
-
 ## 📫 Let's connect
 
 💼 [LinkedIn](https://www.linkedin.com/in/yurii-zholtov)  
