@@ -9,11 +9,7 @@ Built 50+ projects — from Web3 & DeFi to large-scale iGaming ecosystems
 
 </div>
 
---# Hi, I'm Yurii 👋  
-**Senior Backend Engineer & Head of Telegram Department (ex)**  
-Built 50+ projects — from Web3 & DeFi to large-scale iGaming ecosystems
 
-</div>
 
 ---
 
