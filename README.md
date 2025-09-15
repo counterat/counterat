@@ -1,47 +1,65 @@
-# Hi, I'm Yurii 👋
+<!-- Header with photo and intro -->
+<div align="center">
 
-I'm a backend engineer and former Head of Telegram Department with experience building **high-load systems, Web3 apps, and large-scale iGaming ecosystems**.  
+<img src="YOUR_PHOTO_URL_HERE" alt="Yurii Zholtov" width="140" style="border-radius:50%"/>
 
-Over the past years, I've worked on **50+ projects** — from DeFi platforms and blockchain games to AI-powered customer engagement tools — always focusing on **scalable architecture, system reliability, and growth impact.**
+# Hi, I'm Yurii 👋  
+**Backend Engineer & Head of Telegram Department (ex)**  
+Built 50+ projects — from Web3 & DeFi to large-scale iGaming ecosystems
 
----
-
-## 🚀 What I Do
-
-- 🧩 **Backend Architecture** — FastAPI microservices, Docker, PostgreSQL, Redis, Kafka, deployed on AWS with CI/CD (GitHub Actions + Kubernetes)
-- ⚡ **High-Load Systems** — Designed and maintained scalable APIs for apps handling 2M+ MAU
-- 💳 **Cost Optimization** — Built a custom payments library that replaced third-party acquirers, saving companies **$5,000+/month**
-- 📈 **Growth Engineering** — Attracted **20,000+ paying US customers** to Telegram through strategic growth initiatives
-- 🧠 **AI Integration** — Implemented AI-powered advisors in iGaming to boost engagement and retention
-- 📬 **CRM Development** — Built a **Telegram ↔ Zendesk CRM ecosystem** for stable and automated support operations
-- 📋 **UX Improvements** — Redesigned account verification flow → **+17.3% completion rate**
+</div>
 
 ---
 
-## 🏆 Highlights
+## 🚀 About Me
 
-- 💰 Helped secure **$50,000 in funding from TON Foundation** for MVPs
-- ⚙️ Cut company costs by **20%+** via backend automation and process optimization
-- 🧠 Built internal tools for promos, campaigns, bonuses, and user retention systems in iGaming
-- 📡 Ensured stability and low latency under heavy traffic for massive games
+I specialize in building **scalable backend systems**, designing **high-load architectures**, and delivering **reliable integrations** for products with millions of users.
 
----
-
-## 🎯 What’s Next
-
-I’m looking to grow into a **Tech Lead / Solution Architect** role, focusing on:
-
-- 🧠 Designing scalable distributed systems
-- ⚡ Building reliable high-load architectures
-- 🤖 Integrating AI-driven solutions
-- 💡 Bridging backend reliability with user-centric product development
+- ⚙️ Designed and maintained microservices with FastAPI, Docker, PostgreSQL, Redis, Kafka
+- ☁️ Deployed on AWS using Kubernetes + GitHub Actions CI/CD
+- 💳 Built a custom payments library that saved companies **$5,000+/month**
+- 📈 Brought **20,000+ paying US customers** into Telegram through growth initiatives
+- 📬 Launched a **Telegram ↔ Zendesk CRM ecosystem** for support teams
+- 🧠 Implemented AI-powered advisors to boost engagement in iGaming
+- 📋 Redesigned verification flow → **+17.3% completion rate**
+- 💰 Helped secure **$50,000 funding from TON Foundation**
 
 ---
 
-## 🛠 Tech Stack
+## 🧩 Tech Stack
 
-`Python` • `FastAPI` • `PostgreSQL` • `Redis` • `Kafka` • `Docker` • `Kubernetes` • `AWS` • `GitHub Actions` • `WebSockets` • `AI/LLMs`
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" title="FastAPI"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" title="PostgreSQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" title="Redis"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="50" title="Kafka"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" title="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" title="Kubernetes"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" title="AWS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" title="GitHub Actions"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/websocket/websocket-original.svg" width="50" title="WebSockets"/>
+
+</div>
 
 ---
 
-📫 **Let's connect** — I'm always open to discussing ambitious projects and scalable architectures.
+## 🎯 Goals
+
+I’m aiming to grow into a **Tech Lead / Solution Architect** role to:
+
+- 🧠 Design scalable distributed systems
+- ⚡ Build reliable high-load architectures
+- 🤖 Integrate AI-driven solutions
+- 💡 Bridge backend reliability with user-centric product development
+
+---
+
+## 📫 Let's connect
+
+💼 [LinkedIn](https://www.linkedin.com/in/yurii-zholtov)  
+📧 Email: yuriyzholtov@gmail.com
+🌐 [GitHub](https://github.com/counterat)
+
