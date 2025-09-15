@@ -1,7 +1,7 @@
 <!-- Header with photo and intro -->
 <div align="center">
 
-<img src="YOUR_PHOTO_URL_HERE" alt="Yurii Zholtov" width="140" style="border-radius:50%"/>
+<img src="https://media.licdn.com/dms/image/v2/D4E03AQF4JM4K74ooJg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1731617058172?e=1760572800&v=beta&t=GcOH5GegYSqdo2pDwGtQXYhRjpfqDZHDdis47MYF_v4" alt="Yurii Zholtov" width="140" style="border-radius:50%"/>
 
 # Hi, I'm Yurii 👋  
 **Backend Engineer & Head of Telegram Department (ex)**  
