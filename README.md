@@ -82,9 +82,4 @@ I’m aiming to grow into a **Tech Lead / Solution Architect** role to:
 - 💡 Bridge backend reliability with user-centric product development
 
 ---
-## 📫 Let's connect
-
-💼 [LinkedIn](https://www.linkedin.com/in/yurii-zholtov)  
-📧 Email: yuriyzholtov@gmail.com
-🌐 [GitHub](https://github.com/counterat)
 
