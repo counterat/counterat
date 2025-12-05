@@ -61,7 +61,6 @@ Celery, asyncio, REST API, SQLAlchemy, Pydantic, Terraform, WebSockets, Machine 
 
 - 🎮 **Gamedev** — 4 years
 - 💰 **Blockchain / Crypto** — 4 years
-- 🔞 **Adult** — 4 years
 - 🎲 **Gambling** — 4.5 years
 - 📊 **Machine Learning / Big Data** — 4 years
 - 💌 **Dating** — 2 years
